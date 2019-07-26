@@ -6,11 +6,12 @@ Use one of the following in threes:
 2. -
 3. _
 
-Note: If used in three, - gives a horizontal rule, for more, it gives a heading.
+Note: If used after a one line paragraph, --- gives a heading.
 ```
 Hello
 ***
 Hello
+---
 ---
 Hello
 ___
