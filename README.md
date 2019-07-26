@@ -13,25 +13,25 @@ Markdown files can include <html> language code as both are compatible.
 
 [2. Paragraph](https://github.com/NishkarshRaj/Markdown-for-Documentation/tree/master/Paragraph)
 
-[3. Linebreak]()
+[3. Linebreak](https://github.com/NishkarshRaj/Markdown-for-Documentation/tree/master/Linebreak)
 
-[4. Emphasis]()
+[4. Emphasis](https://github.com/NishkarshRaj/Markdown-for-Documentation/tree/master/Emphasis)
 
-[5. Blockquote]()
+[5. Blockquote](https://github.com/NishkarshRaj/Markdown-for-Documentation/tree/master/Blockquote)
 
-[6. Lists]()
+[6. Lists](https://github.com/NishkarshRaj/Markdown-for-Documentation/tree/master/Lists)
 
-[7. Code]()
+[7. Code](https://github.com/NishkarshRaj/Markdown-for-Documentation/tree/master/Code)
 
-[8. Horizontal rules]()
+[8. Horizontal rules](https://github.com/NishkarshRaj/Markdown-for-Documentation/tree/master/Horizontal%20Rules)
 
-[9. Links]()
+[9. Links](https://github.com/NishkarshRaj/Markdown-for-Documentation/tree/master/Links)
 
-[10. Images]()
+[10. Images](https://github.com/NishkarshRaj/Markdown-for-Documentation/tree/master/Images)
 
-[11. Escaping characters]()
+[11. Escaping characters](https://github.com/NishkarshRaj/Markdown-for-Documentation/tree/master/Escaping%20Characters)
 
-[12. Emojis]()
+[12. Emojis](https://github.com/NishkarshRaj/Markdown-for-Documentation/tree/master/Emojis)
 
 ## References
 
